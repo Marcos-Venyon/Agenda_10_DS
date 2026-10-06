@@ -39,4 +39,5 @@ NOME            | MÉDIA  | FREQ.  | SITUAÇÃO / AVISOS
 ```
 
 Ana             | 8.2    |   90% | APROVADO 
+
 Bruno           | N/A    | N/A    | ⚠️ AÇÃO NECESSÁRIA \[Nota inválida (-5.0)\]
